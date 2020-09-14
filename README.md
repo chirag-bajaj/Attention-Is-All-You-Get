@@ -1,2 +1,2 @@
-# Attention-Is-All-You-ll-Get
+# Attention Is All You Get
 Everything about attention from scratch
